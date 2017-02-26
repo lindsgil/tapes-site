@@ -1,0 +1,11 @@
+.header-logo-gif {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.header-logo {
+  text-align: center;
+  display: block;
+}
