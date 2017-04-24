@@ -1,11 +1,17 @@
-.header-logo-gif {
-  height: 200px;
-  width: auto;
-  display: block;
-  margin: 0 auto;
+.menu {
+  left: 0px;
+  top: 0;
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  background: #000000;
+  z-index: 9999;
+  overflow: hidden;
 }
 
-.header-logo {
-  text-align: center;
+.header-logo-gif {
+  height: 50px;
+  width: auto;
   display: block;
+  margin: 40px auto;
 }
